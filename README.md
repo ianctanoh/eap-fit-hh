@@ -22,6 +22,7 @@ This repository contains the code used in the paper to simulate multi-compartmen
 
 ## Installation
 Clone the repository: git clone https://github.com/ianctanoh/eap-fit-hh.git
+
 Install dependencies: pip install -r requirements.txt
 
 
