@@ -1,0 +1,1 @@
+from eap_fit_hh.RGC_model.RGC import RGC
