@@ -41,4 +41,4 @@ The notebooks in `experiments/` reproduce the main results from the paper, inclu
 eap_fit_hh/
 │
 ├── eap_fit_hh/        # Core library: models, filters, geometry, utils
-└── experiments/       # Jupyter notebooks for reproducing the paper's results
+└── experiments/       # Jupyter notebooks for reproducing the paper's experiments
