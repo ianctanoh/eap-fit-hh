@@ -4,7 +4,7 @@
 
 Code accompanying the paper:
 
-**[Fitting Multi-Compartment Hodgkin–Huxley Models with High-Density Extracellular Voltage Recordings](https://arxiv.org/abs/2506.20233)**  
+**[Identifying Multi-Compartment Hodgkin–Huxley Models with High-Density Extracellular Voltage Recordings](https://arxiv.org/abs/2506.20233)**  
 Ian C. Tanoh, Michael Deistler, Jakob Macke, Scott Linderman
 
 This repository contains implementations of the inference methods in the paper, including simulation, extracellular voltage prediction, and scalable variants of the Extended Kalman Filter (EKF) for fitting multi-compartment Hodgkin–Huxley (HH) neuron models.
